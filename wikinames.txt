@@ -1,0 +1,182 @@
+FC Bayern Munich
+Borussia Dortmund
+Bayer 04 Leverkusen
+FC Schalke 04
+VfL Wolfsburg
+SV Werder Bremen
+Borussia Mönchengladbach
+Hamburger SV
+VfB Stuttgart II
+Hannover 96
+1. FSV Mainz 05
+Eintracht Frankfurt
+TSG 1899 Hoffenheim
+SC Freiburg
+Hertha BSC
+1. FC Nürnberg
+FC Augsburg
+Eintracht Braunschweig
+FC Barcelona
+Real Madrid C.F.
+Atlético Madrid
+Valencia CF
+Real Sociedad
+Athletic Bilbao
+Sevilla FC
+Real Betis
+RCD Espanyol
+CD Málaga
+Celta de Vigo
+Villarreal CF
+Getafe CF
+Real Valladolid
+Levante UD
+Granada CF
+CA Osasuna
+Rayo Vallecano
+UD Almería
+Elche CF
+Manchester City F.C.
+Chelsea F.C.
+Manchester United F.C.
+Liverpool F.C.
+Arsenal F.C.
+Tottenham Hotspur F.C.
+Everton F.C.
+Aston Villa F.C.
+Southampton F.C.
+Swansea City A.F.C.
+Fulham F.C.
+Newcastle United F.C.
+West Ham United F.C.
+West Bromwich Albion F.C.
+Norwich City F.C.
+Stoke City F.C.
+Sunderland A.F.C.
+Cardiff City F.C.
+Hull F.C.
+Crystal Palace F.C.
+Paris Saint-Germain F.C.
+AS Monaco FC
+Olympique de Marseille
+Olympique Lyonnais
+Lille OSC
+AS Saint-Étienne
+Stade Rennais F.C.
+FC Girondins de Bordeaux
+OGC Nice
+Toulouse FC
+FC Lorient
+Montpellier HSC
+SC Bastia
+Stade de Reims
+FC Sochaux-Montbéliard
+Valenciennes FC
+Gazélec Ajaccio
+Evian Thonon Gaillard F.C.
+En Avant de Guingamp
+FC Nantes
+Juventus F.C.
+S.S.C. Napoli
+A.C. Milan
+ACF Fiorentina
+Inter Milan
+A.S. Roma
+S.S. Lazio
+Udinese Calcio
+Calcio Catania
+Parma F.C.
+Cagliari Calcio
+Atalanta B.C.
+Bologna F.C. 1909
+Genoa C.F.C.
+U.C. Sampdoria
+Torino F.C.
+A.C. Chievo Verona
+A.S. Livorno Calcio
+Hellas Verona F.C.
+U.S. Sassuolo Calcio
+Celtic F.C.
+Motherwell F.C.
+Inverness Caledonian Thistle F.C.
+Aberdeen F.C.
+St. Johnstone F.C.
+Dundee United F.C.
+Hibernian F.C.
+Partick Thistle F.C.
+Ross County F.C.
+Kilmarnock F.C.
+St. Mirren F.C.
+Heart of Midlothian F.C.
+Ajax Amsterdam
+PSV Eindhoven
+FC Twente
+Feyenoord
+AZ Alkmaar
+Vitesse
+SC Heerenveen
+FC Utrecht
+PEC Zwolle
+FC Groningen
+Heracles Almelo
+La Roda CF
+ADO Den Haag
+NAC Breda
+RKC Waalwijk
+Go Ahead Eagles
+SC Cambuur
+N.E.C. (football club)
+Sport Club Genus de Porto Velho
+S.L. Benfica
+Sporting Clube de Portugal
+S.C. Braga
+F.C. Paços de Ferreira
+Rio Ave F.C.
+C.D. Nacional
+C.S. Marítimo
+G.D. Estoril Praia
+Academica FC
+Vitória S.C.
+Gil Vicente F.C.
+S.C. Olhanense
+Vitória F.C.
+C.F. Os Belenenses
+F.C. Arouca
+Galatasaray S.K.
+Fenerbahçe S.K.
+Beşiktaş J.K.
+Bursaspor
+Trabzonspor
+Kasımpaşa Spor Kulübü
+Eskişehirspor
+Gençlerbirliği S.K.
+Kayserispor
+Çaykur Rizespor
+Antalyaspor
+Sivasspor
+Kayserispor
+Kardemir D. Ç. Karabükspor
+Torku Konyaspor
+Gaziantepspor
+Akhisar Belediyespor
+Sanica Boru Elazığspor
+Cruzeiro Esporte Clube
+Botafogo de Futebol e Regatas
+Grêmio Foot-Ball Porto Alegrense
+Clube Atlético Paranaense
+Sport Club Internacional
+Sport Club Corinthians Paulista
+Santos FC
+Clube de Regatas do Flamengo
+CD Vitoria
+Coritiba Foot Ball Club
+Esporte Clube Bahia
+São Paulo FC
+Criciúma Esporte Clube
+Clube Atlético Mineiro
+Fluminense FC
+CR Vasco da Gama
+Goiás Esporte Clube
+Clube Náutico Capibaribe
+Associação Atlética Ponte Preta
+Portuguesa FC
