@@ -24,8 +24,6 @@ def download(image_url, image_name):
     os.system(cmd)
 
 def get(team):
-    wiki_pages = codecs.open("wikinames.txt", 'w', 'utf8')
-
     #if we already have it, bail
     for extension in ["svg", "png"]:
         filename = "wikicrests/%s.%s" % (team, extension)
@@ -45,15 +43,14 @@ def get(team):
                 print "unable to get logo for team %s" % team
                 return
 
-    wiki_pages.write(page + "\n")
-
     extension = re.split('\.', logo_file)[-1]
     filename = "wikicrests/%s.%s" % (team, extension)
     download(logo_file, filename)
 
 if __name__=="__main__":
     import csv
-    with open("teamnames.txt") as f:
+
+    with codecs.open("wikinames.txt", 'r', 'utf8') as f:
         for team in f:
             team = team.strip()
             print team
