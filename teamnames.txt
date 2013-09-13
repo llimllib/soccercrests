@@ -1,11 +1,11 @@
 Bayern Munich
-Bor Dortmund
+Borussia Dortmund
 Bayer Leverkusen
 Schalke 04
 VfL Wolfsburg
 Werder Bremen
-Bor Monchengladbach
-Hamburg
+Borussia Monchengladbach
+Hamburger SV
 VfB Stuttgart
 Hannover 96
 Mainz 05
@@ -13,15 +13,15 @@ Eintracht Frankfurt
 Hoffenheim
 Freiburg
 Hertha Berlin
-Nurnberg
+FC Nurnberg
 Augsburg
 Braunschweig
 Barcelona
 Real Madrid
 Atletico Madrid
-Valencia
+Valencia CF
 Real Sociedad
-Athl Bilbao
+Athletic Bilbao
 Sevilla
 Betis
 Espanyol
@@ -57,14 +57,14 @@ Cardiff
 Hull
 Crystal Palace
 PSG
-Monaco
-Marseille
+AS Monaco FC
+Olympique de Marseille
 Lyon
 Lille
-St Etienne
+Saint-Etienne
 Rennes
 Bordeaux
-Nice
+OGC Nice
 Toulouse
 Lorient
 Montpellier
@@ -81,7 +81,7 @@ Napoli
 AC Milan
 Fiorentina
 Inter
-Roma
+AS Roma
 Lazio
 Udinese
 Catania
@@ -124,7 +124,7 @@ Den Haag
 NAC Breda
 Waalwijk
 Go Ahead Eagles
-Cambuur
+SC Cambuur
 NEC Nijmegen
 Porto
 Benfica
@@ -141,20 +141,20 @@ Gil Vicente
 Olhanense
 Vitoria Setubal
 Belenenses
-Arouca
+FC Arouca
 Galatasaray
 Fenerbahce
 Besiktas
 Bursaspor
 Trabzonspor
-Kasimpasa
+Kasimpasa SK
 Eskisehirspor
 Genclerbirligi
 Kayserispor
-Rizespor
+Caykur Rizespor
 Antalyaspor
 Sivasspor
-Erciyesspor
+Kayseri Erciyesspor
 Karabukspor
 Konyaspor
 Gaziantepspor
@@ -176,7 +176,7 @@ Criciuma
 Atletico Mineiro
 Fluminense RJ
 Vasco da Gama
-Goias GO
+Goiás Esporte Clube
 Nautico PE
 Ponte Preta
 Portuguesa
